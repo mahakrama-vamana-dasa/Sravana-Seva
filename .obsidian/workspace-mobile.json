@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "04de2c65bccf9451",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3bd4764f50e9879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85658460055cf7e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SB 7.9.19 by SP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SB 7.9.19 by SP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d6aa681b1058619d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1a7e84389276f390",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "aea0a34deca2a915",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Dharma_not_Meant_forArtha",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a662c943fde44cb7",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "47647fd9e0d3e382",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "0b6924bf3c507f0a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "ca050f1525b9f281",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6eabcb7cf69e6cc2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "SB 7.9.19 by SP.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a7e30dbd682001a5",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4b7ad80a63a08e03",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Concepts/Pramana-tattva/Anumana pramana.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "99a251cce5ce203e",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {
+            "file": "SB/SB3/SB 3.21.20 by ANSD.md"
+          },
+          "icon": "lucide-file-signature",
+          "title": "Footnotes"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "85658460055cf7e8",
+  "lastOpenFiles": [
+    "SB/SB5/SB 5.5.18.md",
+    "SB 7.9.19 by SP.md",
+    "Concepts/Krishna-tattva/Supreme.md",
+    "Lecture Notes/SB 5.8.8 by CPP.md",
+    "SB/SB1/SB 1.2.9.md",
+    "Concepts/Vaisnava-tattva/Arjuna.md",
+    "BG 18.64.md",
+    "BG6.5.md",
+    "Concepts/Gita.md",
+    "Concepts/Vaisnava-tattva/Rsabha-putra Bharata.md",
+    "Concepts/Guru-tattva/Diksa.md",
+    "Concepts/Vedanta.md",
+    "philo.md",
+    "Concepts/Bhagavata.md",
+    "Lecture Notes/SB 3.24.40 by MPP.md",
+    "Concepts/Guru-tattva/Prabhupada.md",
+    "Concepts/Pramana-tattva/Sastra.md",
+    "Concepts/Fruitive Activities.md",
+    "Concepts/Sakti-tattva/Cic Chakti.md",
+    "Concepts/ignorance.md",
+    "Concepts/Krishna-tattva/Lord Kapila.md",
+    "Concepts/Vaisnava-tattva/Kardama.md",
+    "SB 5.2.8 by CPP.md",
+    "Concepts/Abhidheya/Arcanam.md",
+    "SB/SB5/SB 5.5.26.md",
+    "SB/SB6/SB 6.1.13.md",
+    "Untitled 1.base",
+    "Lecture Notes",
+    "templates",
+    "New Folder",
+    "SB/SB10",
+    "SB/SB9",
+    "SB/SB8",
+    "SB/SB7",
+    "SB/SB6",
+    "SB/SB5"
+  ]
+}

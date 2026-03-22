@@ -1,0 +1,1 @@
+[[Internal energy]] of [[Krsna]] is hard to cross over. 
