@@ -23,10 +23,14 @@ Explore the system through these interconnected layers:
 
 - **[[Concepts]]** 
 The central organizing framework of the vault. All knowledge converges here through concept-based linking across Guru-tattva, Jīva-tattva, Kṛṣṇa-tattva, Nāma-tattva, and more.
+- **[[Texts]]** 
+The foundational scriptural sources and verse-centric hubs.
+  - **[[Texts/SB|SB]]**: Śrīmad-Bhāgavatam verses, purports, and related insights.
+  - **[[Texts/BG|BG]]**: Bhagavad-gītā verses, structured systematically across all 18 chapters.
 - **[[Lecture Notes]]** 
 Primary knowledge inputs from live classes and study sessions. Includes both raw notes and refined realizations.
-- **[[SB]]** 
-Verse-centric hubs connecting multiple lectures, insights, and realizations around specific śāstric references (Bhagavad-gītā, Śrīmad-Bhāgavatam, etc.).
+  - **[[Lecture Notes/SB|SB Lectures]]**: Class notes specifically covering Śrīmad-Bhāgavatam.
+  - **[[Lecture Notes/BG|BG Lectures]]**: Class notes specifically covering Bhagavad-gītā.
 - **[[Analogies]]** 
 Practical examples and metaphors used to simplify, teach, and internalize philosophical concepts.
 - **[[Songs]]** 
